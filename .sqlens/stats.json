@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "problems": {
+    "letter-combinations-of-a-phone-number": {
+      "slug": "letter-combinations-of-a-phone-number",
+      "title": "Letter Combinations of a Phone Number",
+      "questionId": "17",
+      "difficulty": "Medium",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Backtracking"
+      ],
+      "folder": "0017-letter-combinations-of-a-phone-number",
+      "ext": "py",
+      "hasNotes": false,
+      "updatedAt": "2026-10-05T13:32:39.998Z"
+    }
+  }
+}
